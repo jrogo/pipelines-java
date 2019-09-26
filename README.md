@@ -1,3 +1,4 @@
+[![Build Status](https://julianrogozinski.visualstudio.com/SampleApp/_apis/build/status/jrogo.pipelines-java?branchName=master)](https://julianrogozinski.visualstudio.com/SampleApp/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
